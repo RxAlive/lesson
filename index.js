@@ -6,3 +6,4 @@ console.log("메인3");
 console.log("메인4");
 console.log("메인5");
 console.log("메인6");
+console.log("메인7");
