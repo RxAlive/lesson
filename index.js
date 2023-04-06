@@ -12,3 +12,4 @@ console.log("메인7");
 console.log("메인8");
 console.log("메인9");
 console.log("푸시");
+console.log("구에엑");
