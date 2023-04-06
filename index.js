@@ -5,3 +5,4 @@ console.log("브런치2");
 console.log("메인3");
 console.log("메인4");
 console.log("메인5");
+console.log("메인6");
