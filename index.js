@@ -11,3 +11,4 @@ console.log("메인6");
 console.log("메인7");
 console.log("메인8");
 console.log("메인9");
+console.log("푸시");
